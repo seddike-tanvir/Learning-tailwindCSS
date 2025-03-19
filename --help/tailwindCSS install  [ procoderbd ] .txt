@@ -1,0 +1,15 @@
+--Command:
+
+npm init -y
+npm install -D tailwindcss@3 postcss autoprefixer vite
+npx tailwindcss init -p
+
+
+
+
+
+
+
+npm run vite
+npm run build
+npm run watch

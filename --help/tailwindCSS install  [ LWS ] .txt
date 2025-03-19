@@ -1,0 +1,4 @@
+git config --global user.name “sm”
+git config --global user.email "contact.smtanvir@gmail.com"
+git init
+git pull https://github.com/learnwithsumit/tailwind-playlist lesson-2
